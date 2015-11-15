@@ -12,4 +12,4 @@
 
 module.exports = (robot) ->
   robot.respond /hello/i, (msg) ->
-    msg.send 'World!'
+    msg.send 'こんにちわ！私は masaya です！御用の方は呼んでくださいね。'
